@@ -1,0 +1,13 @@
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size:17px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Times New Roman', Times, serif;
+    color:#0A6EBD;
+}
+
+body {
+    background-color:#A1C2F1;
+}
